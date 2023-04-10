@@ -17,6 +17,7 @@ public class MenuManager : MonoBehaviour
     private void Start()
     {
         seletor = 1;
+        print("lll");
     }
 
     // Update is called once per frame
